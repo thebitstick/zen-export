@@ -10,6 +10,9 @@ This addresses the lack of a pinned tabs export feature in Zen Browser.
 
 Copy and paste the contents of `main.js` into the Browser Console.
 
+> [!IMPORTANT]
+> Set `devtools.chrome.enabled` to `true` in `about:config`
+
 The Browser Console can be accessed via:
 
 - <kbd>Command ⌘</kbd> + <kbd>Shift ⇧</kbd> + <kbd>J</kbd> on Mac
