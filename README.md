@@ -7,7 +7,7 @@ This project provides a script for converting pinned tabs in the **Zen Browser**
 This addresses the lack of a pinned tabs export feature in Zen Browser.
 
 > [!WARNING]
-> Tested on Zen v1.15b
+> Tested on Zen v1.15.3b
 
 ## Usage
 
